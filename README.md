@@ -1,4 +1,4 @@
-Hey there!
+Hey there!👋<br>
 I'm Monil, a Computer Engineer & A Youtube Tutor. 
 With a Huge Passion for Cloud Computing,DevOps and MLOPS 
 AND OF COURSE BUSINESS [I am Gujarati (You can Imagine the Rest...) ]

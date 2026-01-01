@@ -1,14 +1,24 @@
-Hey there!👋<br>
-I'm Monil, a Computer Engineer & A Youtube Tutor.<br>
-With a Huge Passion for Cloud Computing,DevOps and MLOPS <br>
+# Hey there! 👋
+
+I'm Monil, a Computer Engineer & A Youtube Tutor.
+
+With a Huge Passion for Cloud Computing, DevOps and MLOPS<br>
 And of course BUSINESS [I am Gujarati (You can Imagine the Rest...) ]
 
-This account is specially dedicated to those who value TIME,<br>
+<div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
+<br>
+
+This account is specially dedicated to those who value TIME,
+
 Who want to Learn concept Faster and Start Earning as soon as possible
 
-What you'll learn: DevOps, MLOPS, Cloud Computing, Interview Preparation, etc<br>
+**What you'll learn:**  DevOps, MLOPS, Cloud Computing, Interview Preparation, etc
 
-Super Simplified Explanation,With Projects & Notes, In Hindi FOR FREE!<br>
+Super Simplified Explanation, With Projects & Notes, In Hindi FOR FREE!
 
-Reach me out on :
-Email: monilmakesmagic@gmail.com
+---
+**Reach me out on:**
+📧 monilmakesmagic@gmail.com
+

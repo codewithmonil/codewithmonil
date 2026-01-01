@@ -10,8 +10,7 @@ And of course BUSINESS [I am Gujarati (You can Imagine the Rest...) ]
 </div>
 <br>
 
-This account is specially dedicated to those who value TIME,
-
+This account is specially dedicated to those who value TIME,<br>
 Who want to Learn concept Faster and Start Earning as soon as possible
 
 **What you'll learn:**  DevOps, MLOPS, Cloud Computing, Interview Preparation, etc

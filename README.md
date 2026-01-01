@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey there!
+I'm Monil, a Computer Engineer & A Youtube Tutor. 
+With a Huge Passion for Cloud Computing,DevOps and MLOPS 
+AND OF COURSE BUSINESS [I am Gujarati (You can Imagine the Rest...) ]
 
-<!--
-**codewithmonil/codewithmonil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account is specially dedicated to those who value TIME,
+Who want to Learn concept Faster and Start Earning as soon as possible
 
-Here are some ideas to get you started:
+What you'll learn: DevOps, MLOPS, Cloud Computing, Interview Preparation, etc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Super Simplified Explanation,With Projects & Notes, In Hindi FOR FREE!
+
+Reach me out on :
+Email: monilmakesmagic@gmail.com
